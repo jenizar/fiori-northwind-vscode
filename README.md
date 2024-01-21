@@ -30,6 +30,6 @@ Fiori run : Start-Mock (with data)
 
 ![alt text](https://github.com/jenizar/fiori-northwind-vscode/blob/main/Screenshot2.png)
 
-
+[![Video Tutorial](http://img.youtube.com/vi/NwUtO-O5qJQ/0.jpg)](http://www.youtube.com/watch?v=NwUtO-O5qJQ)
 
 
