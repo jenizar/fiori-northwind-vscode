@@ -26,6 +26,8 @@ Install extensions/dependent :
 - Advanced UI5 Snippet Generator
 - Live Server
 
+Fiori run : Start-Mock (with data)
+
 ![alt text](https://github.com/jenizar/fiori-northwind-vscode/blob/main/Screenshot2.png)
 
 
