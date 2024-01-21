@@ -4,7 +4,7 @@ SAP Fiori Display Microsoft Northwind Database using VS Code
 URL Northwind Database Service :
 https://services.odata.org/v4/northwind/northwind.svc/
 
-![alt text](https://github.com/jenizar/fiori-northwind-vscode/blob/main/Screenshot1.png)
+![alt text](https://github.com/jenizar/fiori-northwind-vscode/blob/main/Screenshot1.PNG)
 
 Requirement:
 Install NodeJS and NPM
